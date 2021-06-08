@@ -1,0 +1,15 @@
+D:\HospitalProject\HospitalAPI\HospitalAPI.Core\bin\Debug\net5.0\HospitalAPI.Core.deps.json
+D:\HospitalProject\HospitalAPI\HospitalAPI.Core\bin\Debug\net5.0\HospitalAPI.Core.runtimeconfig.json
+D:\HospitalProject\HospitalAPI\HospitalAPI.Core\bin\Debug\net5.0\HospitalAPI.Core.runtimeconfig.dev.json
+D:\HospitalProject\HospitalAPI\HospitalAPI.Core\bin\Debug\net5.0\HospitalAPI.Core.dll
+D:\HospitalProject\HospitalAPI\HospitalAPI.Core\bin\Debug\net5.0\ref\HospitalAPI.Core.dll
+D:\HospitalProject\HospitalAPI\HospitalAPI.Core\bin\Debug\net5.0\HospitalAPI.Core.pdb
+D:\HospitalProject\HospitalAPI\HospitalAPI.Core\obj\Debug\net5.0\HospitalAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\HospitalProject\HospitalAPI\HospitalAPI.Core\obj\Debug\net5.0\HospitalAPI.Core.AssemblyInfoInputs.cache
+D:\HospitalProject\HospitalAPI\HospitalAPI.Core\obj\Debug\net5.0\HospitalAPI.Core.AssemblyInfo.cs
+D:\HospitalProject\HospitalAPI\HospitalAPI.Core\obj\Debug\net5.0\HospitalAPI.Core.csproj.CoreCompileInputs.cache
+D:\HospitalProject\HospitalAPI\HospitalAPI.Core\obj\Debug\net5.0\HospitalAPI.Core.dll
+D:\HospitalProject\HospitalAPI\HospitalAPI.Core\obj\Debug\net5.0\ref\HospitalAPI.Core.dll
+D:\HospitalProject\HospitalAPI\HospitalAPI.Core\obj\Debug\net5.0\HospitalAPI.Core.pdb
+D:\HospitalProject\HospitalAPI\HospitalAPI.Core\obj\Debug\net5.0\HospitalAPI.Core.genruntimeconfig.cache
+D:\HospitalProject\HospitalAPI\HospitalAPI.Core\obj\Debug\net5.0\HospitalAPI.Core.csprojAssemblyReference.cache
